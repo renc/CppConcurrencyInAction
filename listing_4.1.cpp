@@ -61,4 +61,9 @@ int main()
     
     t1.join();
     t2.join();
+
+	system("pause"); // renc, added. 
 }
+
+// change 1. test Visual studio Team Explorer with git
+// change 2.     change 3
